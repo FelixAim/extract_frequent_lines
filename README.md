@@ -9,13 +9,13 @@ In this tutorial, we'll guide you through the process of using the Python script
 
 First, clone the repository containing the Python script (`extract_frequent_lines.py`) and a sample input file (`input.txt`) to your local machine.
 
-git clone https://github.com/your-username/extract-frequent-lines.git
+git clone https://github.com/FelixAim/extract_frequent_lines.git
 
 **Step 2: Navigate to the Repository**
 
 Change your current directory to the cloned repository.
 
-cd extract-frequent-lines
+cd extract_frequent_lines
 
 **Step 3: Prepare the Input File**
 
